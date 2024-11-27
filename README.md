@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://playmemoria.com/common/logo-memoria.png" alt="Memoria Logo" width="200" />
+  <img src="https://playmemoria.com/common/logo-memoria.png" alt="Memoria Logo" width="20%" />
 </p>
 
 # About Memoria
